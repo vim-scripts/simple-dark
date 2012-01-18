@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3890
+
+This is a dark 256 color scheme with mild contrast and not so many colors. It is good for prolonged coding. This scheme is inspaired by Lucius (vimscript #2536).
+
+Please use the Github repo, where the script will be updated: https://github.com/zefei/simple-dark
+
+Screenshots:                                                                   
+Java: http://imgur.com/KE7aL
+C: http://imgur.com/K5G5V
+Javascript with nerdtree: http://imgur.com/lSXx2
+Ruby with tagbar: http://imgur.com/NzPwu
